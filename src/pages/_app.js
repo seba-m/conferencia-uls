@@ -1,14 +1,12 @@
 import '@/styles/globals.css'
 
-import Head from 'next/head';
+import CustomHead from '@/components/CustomHead'
 
 export default function App({ Component, pageProps }) {
   return (
-    <div>
-      <Head>
-        <script type="text/javascript" src="/static/script.js"></script>
-      </Head>
+    <>
+      <CustomHead />
       <Component {...pageProps} />
-    </div>
+    </>
   )
 }
