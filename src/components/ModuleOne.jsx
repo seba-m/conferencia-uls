@@ -13,7 +13,7 @@ export default function ModuleOne() {
                 </p>
 
                 <div className="grid grid-cols-2 mt-7 lg:divide-x-4 divide-[#0ec2d7] max-w-4xl pb-8">
-                    <div className="px-8 lg:first:pl-0 lg:first:pr-8 lg:last:pl-8 lg:last:pr-0 lg:last:pt-8 col-span-2 lg:col-span-1 flex flex-col items-center">
+                    <div className="px-8 lg:first:pl-0 lg:first:pr-10 lg:last:pl-10 lg:last:pr-0 last:pt-8 lg:last:pt-0 col-span-2 lg:col-span-1 flex flex-col items-center">
                         <h2 className="text-3xl font-bold max-w-xs text-center">&quot;Inteligencia Artificial, una Nueva Era&quot;</h2>
                         <h4 className="text-[#0ec2d7] text-3xl text-center font-medium mb-3">13:45 - 14:00 hrs.</h4>
 
@@ -25,7 +25,7 @@ export default function ModuleOne() {
                         </p>
                     </div>
 
-                    <div className="px-8 lg:first:pl-0 lg:first:pr-8 lg:last:pl-8 lg:last:pr-0 lg:last:pt-8 col-span-2 lg:col-span-1 flex flex-col items-center">
+                    <div className="px-8 lg:first:pl-0 lg:first:pr-10 lg:last:pl-10 lg:last:pr-0 last:pt-8 lg:last:pt-0 col-span-2 lg:col-span-1 flex flex-col items-center">
                         <h2 className="text-3xl font-bold max-w-xs text-center">&quot;Inteligencia Artificial y Ética&quot;</h2>
                         <h4 className="text-[#0ec2d7] text-3xl font-medium mb-3">14:25 - 14:50 hrs.</h4>
 
