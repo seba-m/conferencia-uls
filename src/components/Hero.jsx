@@ -26,13 +26,13 @@ export default function Hero() {
                     </h1>
 
                     <p className="text-white text-center text-2xl md:text-4xl">
-                        11 de Octubre 2023 desde las 13:45 - 19:00 hrs.
+                        11 de Octubre 2023 desde las 13:45 - 18:15 hrs.
                     </p>
                     <p className="text-white text-center text-lg md:text-2xl lg:text-4xl my-3">
                         Salón Pentágono, Campus Andrés Bello, Universidad de La Serena
                     </p>
                     <Link target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfAM8MebqqQaPOKYqpB0QpKhq6zaIO8p7UpgOrTgXwflfArzw/viewform" className="bg-[#1f7bfe] hover:bg-blue-700 text-xl text-white font-bold py-2 px-4 rounded-full mt-5" >
-                        Inscribirse
+                        Inscribirse (Estudiantes ULS)
                     </Link>
                 </div>
             </div>

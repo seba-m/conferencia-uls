@@ -21,7 +21,7 @@ export default function ModuleOne() {
                         <h5 className='text-xl mb-5 text-center'>Estudiante Ingeniería en Computación</h5>
 
                         <p className="text-justify text-xl max-w-xl lg:max-w-sm">
-                            Hoy por hoy, es imposible no encontrarse con el término “Inteligencia Artificial”. Grandes empresas como Google, Meta, OpenAI, Tesla, han impulsado su desarrollo, elaborando modelos de lenguaje que imitan a un locutor humano (como ChatGPT), Inteligencias Artificiales que hacen arte: música, dibujo, escritura; que posibilitan la detección temprana de cáncer (Sybil, MIT), y un largo etcétera. Durante los últimos años, se ha notado un desarrollo masivo de la Inteligencia Artificial, la cual nos está cambiando como sociedad de cierta manera.
+                            Hoy por hoy, es imposible no encontrarse con el término "Inteligencia Artificial". Los avances investigativos en el campo han sido muy significativos, conllevando al desarrollo de herramientas potentes, tales como el self-driving de Tesla, o herramientas de lenguaje como ChatGPT. En esta charla, haremos un recorrido por la historia de la evolución de la IA, hasta el día de hoy. Finalmente, reflexionaremos del por qué estamos viviendo una nueva era, y cuáles son los desafíos que el campo está enfrentando.
                         </p>
                     </div>
 

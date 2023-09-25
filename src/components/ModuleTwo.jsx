@@ -15,7 +15,7 @@ export default function ModuleOne() {
                 <div className="grid grid-cols-2 mt-7 lg:divide-x-4 divide-[#0ec2d7] max-w-4xl pb-8">
                     <div className="px-8 lg:first:pl-0 lg:first:pr-10 lg:last:pl-10 lg:last:pr-0 last:pt-8 lg:last:pt-0 col-span-2 lg:col-span-1 flex flex-col items-center">
                         <h2 className="text-3xl font-bold max-w-xs text-center">&quot;Innovación Tecnológica en la Educación, un poco de historia&quot;</h2>
-                        <h4 className="text-[#0ec2d7] text-3xl text-center font-medium mb-3">16:00 - 16:25 hrs.</h4>
+                        <h4 className="text-[#0ec2d7] text-3xl text-center font-medium mb-3">16:15 - 16:40 hrs.</h4>
 
                         <h5 className='font-medium text-2xl text-center'>Valentina Mossó K.</h5>
                         <h5 className='text-xl mb-5 text-center'>Estudiante Pedagogía en Biología y Cs. Naturales</h5>
@@ -27,13 +27,13 @@ export default function ModuleOne() {
 
                     <div className="px-8 lg:first:pl-0 lg:first:pr-10 lg:last:pl-10 lg:last:pr-0 last:pt-8 lg:last:pt-0 col-span-2 lg:col-span-1 flex flex-col items-center">
                         <h2 className="text-3xl font-bold max-w-xs text-center">&quot;Tejidos animales en modelos impresos 3D: desde la visión microscópica a la manipulación concreta&quot;</h2>
-                        <h4 className="text-[#0ec2d7] text-3xl font-medium mb-3">16:25 - 16:50 hrs.</h4>
+                        <h4 className="text-[#0ec2d7] text-3xl font-medium mb-3">16:40 - 17:05 hrs.</h4>
 
                         <h5 className='font-medium text-2xl text-center'>Diego Cortés U. & Valentina Ledezma R.</h5>
                         <h5 className='text-xl mb-5 text-center'>Estudiantes Pedagogía en Biología y Cs. Naturales</h5>
 
                         <p className="text-justify text-xl max-w-xl lg:max-w-sm">
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti, sunt vitae dignissimos mollitia at error illum quae, repellendus nostrum sint officia doloribus, sapiente consectetur recusandae cumque libero inventore possimus maiores?
+                            Exploraremos cómo la histología, la rama de la biología que estudia los tejidos biológicos en su estructura microscópica, puede avanzar hacia el mundo tridimensional (3D). Abordaremos cómo esta innovación mejorará el aprendizaje al proporcionar una comprensión más completa de la forma y distribución de los tejidos, beneficiando a estudiantes de carreras del área de la salud y pedagogías.
                         </p>
                     </div>
                 </div>
@@ -41,7 +41,7 @@ export default function ModuleOne() {
             <div className='bg-[#ededed] px-3 py-7'>
                 <div className="container mx-auto flex flex-col items-center">
                     <h2 className="text-3xl font-bold max-w-md text-center">&quot;Ciencia y su Aprendizaje: Aplicaciones Móviles con Realidad Aumentada&quot;</h2>
-                    <h4 className="text-[#0ec2d7] text-2xl font-medium mb-3 text-center">17:05 - 17:35 hrs.</h4>
+                    <h4 className="text-[#0ec2d7] text-2xl font-medium mb-3 text-center">17:20 - 17:50 hrs.</h4>
 
                     <div className='grid grid-cols-2 items-center mb-5'>
                         <div className='col-span-2 lg:col-span-1 flex flex-col items-center'>
@@ -57,7 +57,7 @@ export default function ModuleOne() {
                     </div>
 
                     <h2 className="text-3xl font-bold max-w-sm text-center">Taller de Realidad Aumentada</h2>
-                    <h4 className="text-[#0ec2d7] text-2xl font-medium mb-3 text-center">17:35 - 18:00 hrs.</h4>
+                    <h4 className="text-[#0ec2d7] text-2xl font-medium mb-3 text-center">17:50 - 18:15 hrs.</h4>
                 </div>
             </div>
         </section>

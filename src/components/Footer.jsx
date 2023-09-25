@@ -41,7 +41,7 @@ export default function Footer() {
                     </div>
                     <div className="flex-1 flex-row mb-4 md:mb-0">
                         <h2 className="uppercase text-white font-bold text-2xl :mb-4">
-                            auspicia:
+                            patrocina:
                         </h2>
                         <div className="flex flex-row items-center justify-evenly">
                             <div className="relative mx-auto">
